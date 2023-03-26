@@ -18,7 +18,7 @@ int main()
     decimal_result = convertBinaryToDecimal(Bin_num);
 
     printf("%lld in binary =  %d in decimal ", Bin_num, decimal_result);
-    101printf("\n");
+    printf("\n");
     // this code to convert binary to decimal
     printf("Enter a Decimal number : ");
 
